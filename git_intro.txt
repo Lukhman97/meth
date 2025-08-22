@@ -1,0 +1,22 @@
+Git:
+
+Git is a distributed version control system
+It helps developers track changes in code
+Created by Linus Torvalds (the creator of Linux) in 2005.
+
+
+git init
+git clone <url>
+git status
+git add <filename>
+git add .
+git commit -m "message"
+git log
+git remote add origin <repo_url>
+git push origin main
+git pull origin main
+git branch
+git checkout -b <branchname>
+git checkout main
+git merge <branchname>
+git push origin <branchname>
